@@ -1,6 +1,5 @@
-name = "Kamal"
-age = 20
-weight = 56.2
+name, age, weight = "Kamal", 12, 56.2 
 
 print(name)
 print(age)
+print(weight)
