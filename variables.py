@@ -8,3 +8,4 @@ mango = apple = orange = 50
 print(mango)
 print(apple)
 print(orange)
+
